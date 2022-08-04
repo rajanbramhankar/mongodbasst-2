@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "mongo-client": "^0.2.1"
+  }
+}
